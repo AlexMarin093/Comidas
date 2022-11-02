@@ -1,0 +1,14 @@
+.titulo_uno{
+    color: blue;
+    background-color: black;
+}
+body{
+    background-image: url(https://img.freepik.com/vector-premium/chef-hombre-dibujos-animados_119631-187.jpg);
+background-size: cover;
+}
+.button{
+    background-color: yellow;
+}
+.button p{
+    color:black;
+}
